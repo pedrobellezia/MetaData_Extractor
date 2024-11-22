@@ -1,0 +1,15 @@
+pandas
+matplotlib
+pymediainfo
+openpyxl
+
+git reset --hard
+
+
+git clean -fd
+
+
+git reset --hard $(git rev-list --max-parents=0 HEAD)
+
+
+git push -f origin master
