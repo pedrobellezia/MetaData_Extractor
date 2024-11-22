@@ -44,7 +44,7 @@ Este módulo Python processa arquivos de mídia para extrair metadados, criar re
 
 2. Execute o script:
    ```bash
-   python new.py
+   python DataExtractor.py
    ```
    
 ## Exemplo
